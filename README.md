@@ -20,4 +20,4 @@ Search for remote jobs anytime and anywhere, and start living your dream life!
 
 ## Author
 
-CodeStuido Members
+Abraham Bobson Turay
